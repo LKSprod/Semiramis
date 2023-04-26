@@ -4,12 +4,25 @@ const colors = require('tailwindcss/colors');
 module.exports = {
   content: ['./src/**/*.{html,js,svelte,ts}'],
   theme: {
+    fontFamily:{
+      monoSpace: ['SPACEMONO-BOLD.TTF','SPACEMONO-BOLDITALIC.TTF','SPACEMONO-ITALIC.TTF','SPACEMONO-REGULAR.TTF',],
+      publicSans:['public-sans'],
+    },
     colors: {
-      background: colors.white,
+      background:' colors.white',
       text: colors.black,
       hover: '#00000030',
       transparent: '#00000000',
       
+      //Colourpallette
+      eins:   '#EEE9DA',
+      zwei:   '#BDCDD6',     
+      drei:   '#93BFCF',
+      vier:   '#6096B4',
+      fünf:   '#15232A',
+      
+
+      //Luca Farben
       primary: {
         DEFAULT: colors.blue[800],
         hover: '#00000030',
