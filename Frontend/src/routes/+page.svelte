@@ -1,2 +1,7 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<script lang="ts">
+    import Todo from "$lib/Todo.svelte";
+    import Page from "$lib/Page.svelte";
+</script>
+
+<!-- <Todo /> -->
+<Page />

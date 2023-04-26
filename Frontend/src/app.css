@@ -1,3 +1,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+@font-face {
+    font-family: 'MonoSpace';
+    src: url(frontend\public\fonts\Spacemono\SPACEMONO-BOLD.TTF);
+    src: url(frontend\public\fonts\Spacemono\SPACEMONO-BOLDITALIC.TTF);
+    src: url(frontend\public\fonts\Spacemono\SPACEMONO-ITALIC.TTF);
+    src: url(frontend\public\fonts\Spacemono\SPACEMONO-REGULAR.TTF);
+    
+}
