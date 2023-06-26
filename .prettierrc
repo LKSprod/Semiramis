@@ -12,6 +12,5 @@
 				"parser": "svelte"
 			}
 		}
-	],
-	"phpVersion": "8.2"
+	]
 }
