@@ -1,6 +1,3 @@
 {
-	"recommendations": [
-		"1YiB.svelte-bundle",
-		"bradlc.vscode-tailwindcss",
-	]
+	"recommendations": ["1YiB.svelte-bundle", "bradlc.vscode-tailwindcss"]
 }
