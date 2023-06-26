@@ -8,4 +8,26 @@
     src: url(frontend\public\fonts\Spacemono\SPACEMONO-ITALIC.TTF);
     src: url(frontend\public\fonts\Spacemono\SPACEMONO-REGULAR.TTF);
     
+    font-family: 'PublicSans';
+    src: url(frontend\public\fonts\public-sans\PUBLICSANS-BLACKITALIC.OTF);
+    src: url(frontend\public\fonts\public-sans\PUBLICSANS-BOLD.OTF);
+    src: url(frontend\public\fonts\public-sans\PUBLICSANS-BOLDITALIC.OTF);
+    src: url(frontend\public\fonts\public-sans\PUBLICSANS-EXTRABOLD.OTF);
+    src: url(frontend\public\fonts\public-sans\PUBLICSANS-EXTRABOLDITALIC.OTF);
+    src: url(frontend\public\fonts\public-sans\PUBLICSANS-EXTRALIGHT.OTF);
+    src: url(frontend\public\fonts\public-sans\PUBLICSANS-EXTRALIGHTITALIC.OTF);
+    src: url(frontend\public\fonts\public-sans\PUBLICSANS-ITALIC.OTF);
+    src: url(frontend\public\fonts\public-sans\PUBLICSANS-LIGHT.OTF);
+    src: url(frontend\public\fonts\public-sans\PUBLICSANS-LIGHTITALIC.OTF);
+    src: url(frontend\public\fonts\public-sans\PUBLICSANS-MEDIUM.OTF);
+    src: url(frontend\public\fonts\public-sans\PUBLICSANS-MEDIUMITALIC.OTF);
+    src: url(frontend\public\fonts\public-sans\PUBLICSANS-REGULAR.OTF);
+    src: url(frontend\public\fonts\public-sans\PUBLICSANS-SEMIBOLD.OTF);
+    src: url(frontend\public\fonts\public-sans\PUBLICSANS-SEMIBOLDITALIC.OTF);
+    src: url(frontend\public\fonts\public-sans\PUBLICSANS-THIN.OTF);
+    src: url(frontend\public\fonts\public-sans\PUBLICSANS-THINITALIC.OTF);
+    src: url(frontend\public\fonts\public-sans\PUBLICSANS-SEMIBOLDITALIC.OTF);
+    src: url(frontend\public\fonts\public-sans\PUBLICSANS-BLACK.OTF);
+
+
 }
