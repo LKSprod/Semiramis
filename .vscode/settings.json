@@ -4,5 +4,8 @@
 	"prettier.requireConfig": true,
 	"prettier.configPath": "",
 	"prettier.enable": true,
-	"prettier.prettierPath": "./node_modules/prettier"
+	"prettier.prettierPath": "./node_modules/prettier",
+	"[svelte]": {
+		"editor.defaultFormatter": "svelte.svelte-vscode"
+	}
 }
