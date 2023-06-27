@@ -11,8 +11,8 @@
 			<MenuEntry {entry} />
 		{/each}
 	</div> --->
-<div class="flex">
-	<ul class="menu bg-primary font-monoSpace h-screen w-64 font-bold">
+<div class="flex min-h-screen min-h-screen items-stretch">
+	<ul class="menu bg-primary font-monoSpace w-64 font-bold">
 		<li>
 			<details open>
 				<summary>Art</summary>
